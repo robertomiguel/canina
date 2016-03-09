@@ -1,0 +1,58 @@
+body {
+	background-image:url("/img/fondo.jpg");
+	padding:0;
+	margin:0;
+	margin-top:10px
+	}
+
+hr {border-color:#BC8EFC !important}
+
+.cuerpo {
+	max-width:900px;
+	background-color: #F2FF72;
+	margin:auto;
+	padding:5px;
+	height:100%;
+	}
+	
+.logo {}
+
+.redondear {
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	}
+
+.sombra {
+	-webkit-box-shadow: 0 0 8px 4px rgba(0, 0, 0, .5);
+	box-shadow: 0 0 8px 4px rgba(0, 0, 0, .5);
+	}
+
+.menu{
+	vertical-align:top;
+	text-align:center
+	}
+
+.menu_foto {
+	border: #BC8EFC 2px solid;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	}
+
+.menu_foto:hover {
+	-webkit-box-shadow: 0 0 8px 4px rgba(0, 0, 0, .5);
+	box-shadow: 0 0 8px 4px rgba(0, 0, 0, .5);
+	}
+
+.info{
+	text-align:center;}
+	
+.info img:hover {
+  -webkit-filter: invert(.8);
+  filter: invert(.8);
+	}
+
+.contacto{
+	text-align:center;}
+	
